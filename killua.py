@@ -43,7 +43,7 @@ def menu():
   {Wh}[{Cy}4{Wh}] !Cek Jam                 {Wh}[{Cy}14{Wh}]  !Dowload Vidio Yt [ERROR]
   {Wh}[{Cy}5{Wh}] !Cek Author              {Wh}[{Cy}15{Wh}]  !Short-link 
   {Wh}[{Cy}6{Wh}] !Cek Nama Bot            
-  {Wh}[{Cy}7{Wh}] !Cek Cewek               
+  {Wh}[{Cy}7{Wh}] !Cek Cewek [ERROR]              
   {Wh}[{Cy}8{Wh}] !Cek Gay                 
   {Wh}[{Cy}9{Wh}] !Cek Lesby            
   {Wh}[{Cy}10{Wh}] !Cek Pintar         
