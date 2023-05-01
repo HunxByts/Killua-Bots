@@ -101,7 +101,7 @@ gay = ', '.join(cek_gay)
 system_info = platform.uname()
 
 def generate_response(user_input):
-  if user_input.lower() in ["hi","oy","woy","bang","kak"]:
+  if user_input.lower() in ["hi","oy","woy","bang","kak","hai","hallo","halo"]:
     return "Apa yang bisa killua bantu ?"
   elif user_input.lower() == "menu":
     menu()
